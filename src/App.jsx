@@ -1,12 +1,11 @@
-import React from 'react'
-import React from 'react-dom/client'
+import React, {Component} from 'react';
 
 
 function App() {
 
   return (
     <>
-    <p>local buisness</p>
+    <h1>Login</h1>
     </>
   )
 }
